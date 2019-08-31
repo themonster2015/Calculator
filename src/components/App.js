@@ -6,8 +6,8 @@ export default class App extends React.Component {
   render() {
     return (
       <div id="calculator">
-        <Display></Display>
-        <ButtonPanel></ButtonPanel>
+        <Display result="0" />
+        <ButtonPanel />
       </div>
     );
   }
