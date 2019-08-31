@@ -1,0 +1,19 @@
+.button {
+  width: 25%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid silver;
+}
+.orange {
+  background-color: orange;
+}
+
+.grey {
+  background-color: lightgrey;
+}
+
+.wide {
+  width: 50%;
+}
